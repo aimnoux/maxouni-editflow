@@ -10,7 +10,7 @@ A starter kit for editing video with **Codex** or **Claude Code**. You record yo
 
 <p align="center">
   <a href="https://t.me/maxouniai_bot?start=montage-gh-readme"><img src=".github/readme/guide-en.png" alt="PDF guide “Editing with Claude from A to Z” — get it in Telegram" width="49%"></a>
-  <a href="https://www.youtube.com/@maxouniai"><img src=".github/readme/course-en.png" alt="Video course on YouTube — the whole pipeline on three projects" width="49%"></a>
+  <a href="https://youtu.be/E6ioDmxAl1U"><img src=".github/readme/course-en.png" alt="Video course on YouTube — the whole pipeline on three projects" width="49%"></a>
 </p>
 
 <p align="center"><sub>The guide and the course are in Russian.</sub></p>

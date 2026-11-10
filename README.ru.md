@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://t.me/maxouniai_bot?start=montage-gh-readme"><img src=".github/readme/guide-ru.png" alt="Гайд PDF «Монтаж с Claude от А до Я» — забрать в Telegram" width="49%"></a>
-  <a href="https://www.youtube.com/@maxouniai"><img src=".github/readme/course-ru.png" alt="Видеокурс на YouTube — весь пайплайн на трёх проектах" width="49%"></a>
+  <a href="https://youtu.be/E6ioDmxAl1U"><img src=".github/readme/course-ru.png" alt="Видеокурс на YouTube — весь пайплайн на трёх проектах" width="49%"></a>
 </p>
 
 <p align="center">
